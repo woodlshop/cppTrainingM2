@@ -1,5 +1,6 @@
 #include <iostream> 
-int main() {
+int main() 
+{
     int discountRate = 2;
     int valueOfGoods = 100;
     int shippingCost = 50;
